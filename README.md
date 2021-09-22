@@ -15,7 +15,7 @@
 
 <p align="center"> Bootcamp Java da Alura - Projeto 01 - Biblioteca </p>
 
-## Projeto do módulo 1 do bootcamp java da Alura
+## Projeto do módulo 1 do bootcamp java da Alura 2021
 
 Trata-se de uma aplicação web em Java para gestão de uma livraria online. A primeira parte
 consiste em um sistema de cadastro de autores em um banco de dados local. 
