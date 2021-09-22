@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://github.com/raul-lima/capgemini-desafio-programacao">
+  <a href="https://github.com/raul-lima/bootcamp-java-projeto01">
     <img src="https://media.cuponeria.com.br/2020/07/63f02582-cupom-de-desconto-alura.png" width="500" height="200" alt="Logo da Alura: mergulhe em tecnologia" />
   </a>
 </p>
 
 <div align="center">
 
-![GitHub top language](https://img.shields.io/github/languages/top/raul-lima/capgemini-desafio-programacao)<space><space>
-![Lines of Code](https://img.shields.io/tokei/lines/github/raul-lima/capgemini-desafio-programacao)<space><space>
-![GitHub repo size](https://img.shields.io/github/repo-size/raul-lima/capgemini-desafio-programacao)<space><space>
+![GitHub top language](https://img.shields.io/github/languages/top/raul-lima/bootcamp-java-projeto01)<space><space>
+![Lines of Code](https://img.shields.io/tokei/lines/github/raul-lima/bootcamp-java-projeto01)<space><space>
+![GitHub repo size](https://img.shields.io/github/repo-size/raul-lima/bootcamp-java-projeto01)<space><space>
 ![Feito por](https://img.shields.io/badge/feito%20por-Raul%20Lima-blueviolet)
 
 </div>
