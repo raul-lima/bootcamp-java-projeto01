@@ -25,6 +25,7 @@ Os registros ficam disponibilizados em uma lista na mesma página.
 
 Para a construção da aplicação java web foram utilizados:
 
+* Java
 * Servlet 
 * JSP e JSTL
 * JDBC
